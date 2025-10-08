@@ -535,7 +535,7 @@ input:checked + label .description {
 
 .content5{
     grid-column: 3/11;
-    grid-row: 42/48;
+    grid-row: 42/49;
     background: white;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
@@ -545,7 +545,7 @@ input:checked + label .description {
 }
 
 .content5 .fb-page-title{
-     grid-column: 3/ span 11;
+    grid-column: 3/ span 11;
     grid-row: 43/44;
     display: grid;
 }
@@ -559,14 +559,14 @@ input:checked + label .description {
 }
 
 .content5 .fbpage-img{
-     grid-column: 3 / span 11;
+    grid-column: 3 / span 11;
     grid-row: 46/48;
     display: grid;
     align-items: center;
 }
 
 .fbpage-img{
-  align-self: center;
+    align-self: center;
     width: 600px;
     height: 320px;
     border-radius: 10px; 
@@ -739,5 +739,3 @@ input:checked + label .description {
     }
 }       
         
-
-
