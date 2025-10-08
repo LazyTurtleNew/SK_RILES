@@ -566,7 +566,7 @@ input:checked + label .description {
 }
 
 .fbpage-img{
-    align-self: center;
+  align-self: center;
     width: 600px;
     height: 320px;
     border-radius: 10px; 
@@ -739,3 +739,4 @@ input:checked + label .description {
     }
 }       
         
+
