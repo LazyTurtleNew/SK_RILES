@@ -580,8 +580,8 @@ input:checked + label .description {
 /* Footer */
 
 .footer{
-    grid-column: 1/13;
-    grid-row: 49/52;
+   grid-column: 1/13;
+    grid-row: 41/52;
     background-color: #000000;
     box-sizing: border-box;
     width: 100%;
@@ -739,3 +739,4 @@ input:checked + label .description {
     }
 }       
         
+
