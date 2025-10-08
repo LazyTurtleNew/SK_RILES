@@ -545,7 +545,7 @@ input:checked + label .description {
 }
 
 .content5 .fb-page-title{
-    grid-column: 5/ span 4;
+     grid-column: 3/ span 11;
     grid-row: 43/44;
     display: grid;
 }
@@ -559,7 +559,7 @@ input:checked + label .description {
 }
 
 .content5 .fbpage-img{
-    grid-column: 4 / span 8;
+     grid-column: 3 / span 11;
     grid-row: 46/48;
     display: grid;
     align-items: center;
@@ -739,4 +739,5 @@ input:checked + label .description {
     }
 }       
         
+
 
